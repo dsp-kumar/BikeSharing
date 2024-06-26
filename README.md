@@ -17,4 +17,4 @@ How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
 ### Goal
-To develop a machine learning model using multi linear regression and also do EDA
+To develop a machine learning model using multi linear regression and also do EDA for better market analysis on bike sharing and also to know some of the best favourable conditions.
